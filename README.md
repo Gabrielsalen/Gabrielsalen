@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey my name is Gabriel. I am 16 years old and attend ACS amman in 11th grade. I am a big football fan and have been supporting arsenal fc for my whole life. I play video games like FIFA, GTA, Call of duty, 2k and more.
+Hey my name is Gabriel. I am 16 years old and attend __ACS amman__ in 11th grade. I am a big football fan and have been supporting *arsenal fc* for my whole life. I play ~~video games~~ like FIFA, GTA, Call of duty, 2k and more.
+Here is one of arsenals best seasons in the prremier league: https://www.youtube.com/watch?v=Z41Um_rDbVw
